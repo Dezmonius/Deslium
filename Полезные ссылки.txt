@@ -1,0 +1,2 @@
+1)Расширяем фреймворк Kivy пакетом XPopup (Часть 1-я) :
+https://habrahabr.ru/post/301712/
